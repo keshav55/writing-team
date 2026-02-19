@@ -1,10 +1,10 @@
-# writing_team
+# writing-team
 
 Three skills that work together on writing tasks.
 
 ## The idea
 
-One AI writing tool isn't enough. It either drafts (but misses errors) or edits (but can't create). You need a team.
+ You need a team for writing. By breaking down the process, you bring the best out from agents.
 
 ```
 planner → writer → copy-editor
